@@ -1,5 +1,26 @@
 FR
 
+# DealScout – Extension Chrome
+
+Détecte automatiquement les offres commerciales, codes promo et liens sponsorisés dans les descriptions YouTube.
+
+## 🔧 Installation en local 
+
+1. Cloner le repo
+2. Aller dans `chrome://extensions`
+3. Activer le mode développeur
+4. Cliquer sur “Charger l’extension non empaquetée”
+5. Sélectionner le dossier du projet
+
+## 📦 Fonctionnalités
+
+- Détection automatique de :
+  - Liens sponsorisés
+  - Codes promos
+  - Bénéfices clients (réductions, mois offerts, etc)
+- Gestion des vidéos expirées (> 21 jours)
+- UI multilingue (FR / EN)
+
 MIT License
 
 Ce projet a été initié dans le cadre de ma reconversion en tant que développeur web (JavaScript/React). Je suis un jeune quarantenaire autodidacte, et ce travail — de faible niveau et très ùoche/imparfait — s'améliorera continuellement. Merci de faire preuve de bienveillance et d'éviter les jugements destructeurs : chaque ligne ici est l'oeuvre d'un newbie. 
@@ -36,6 +57,33 @@ Cas à exclure	Justification
 
 
 🇬🇧 
+
+DealScout – Chrome Extension
+Automatically detects commercial offers, promo codes, and sponsored links in YouTube video descriptions.
+
+🔧 Local Installation
+Clone the repository
+
+Go to chrome://extensions
+
+Enable developer mode
+
+Click “Load unpacked”
+
+Select the project folder
+
+📦 Features
+Automatic detection of:
+
+Sponsored links
+
+Promo codes
+
+Customer benefits (discounts, free months, etc.)
+
+Management of expired videos (> 21 days)
+
+Multilingual UI (FR / EN)
 
 MIT License
 
@@ -80,6 +128,33 @@ Excluded case Justification
 
 🇪🇸
 
+DealScout – Extensión de Chrome
+Detecta automáticamente ofertas comerciales, códigos promocionales y enlaces patrocinados en las descripciones de videos de YouTube.
+
+🔧 Instalación local
+Clona el repositorio
+
+Ve a chrome://extensions
+
+Activa el modo desarrollador
+
+Haz clic en “Cargar sin empaquetar”
+
+Selecciona la carpeta del proyecto
+
+📦 Funcionalidades
+Detección automática de:
+
+Enlaces patrocinados
+
+Códigos promocionales
+
+Beneficios para el usuario (descuentos, meses gratis, etc.)
+
+Gestión de vídeos caducados (> 21 días)
+
+Interfaz multilingüe (FR / EN)****
+
 MIT License
 
 Este proyecto se inició como parte de mi reconversión profesional hacia el desarrollo web (JavaScript/React). Soy un autodidacta de poco más de 40 años, y este trabajo — muy básico y claramente imperfecto — está en constante evolución. Gracias por mostrar comprensión y evitar juicios destructivos: cada línea aquí es obra de un principiante.
@@ -116,7 +191,7 @@ Caso a excluir	Justificación
 🔧 Limitación actual
 ❗ Las ofertas comerciales mencionadas solo de forma oral en el vídeo (y ausentes en la descripción) aún no se detectan correctamente. Esta limitación se abordará más adelante mediante un análisis de subtítulos o de la pista de audio, actualmente en fase de investigación técnica.
 ❗ Se trata de una extensión de Chrome, no de un producto de YouTube. Evitamos deliberadamente utilizar la YouTube Data API para no otorgarles más acceso ni control sobre tus datos y carteras.
-❗ EUR/USD por lo momento.
+❗ EUR/USD de momento.
 
 
 
