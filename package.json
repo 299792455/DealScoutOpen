@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "webextension-polyfill": "^0.12.0"
+  },
+  "dependencies": {
+    "natural": "^8.0.1"
+  },
+  "scripts": {
+    "train": "node ai/train.js",
+    "predict": "node ai/predict.js"
+  }
+}

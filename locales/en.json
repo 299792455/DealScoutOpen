@@ -1,0 +1,18 @@
+{
+  "noOffer.title": "❌ No DealScout-approved offer found in this video.",
+  "noOffer.detail": "To be DealScout Approved, an offer must include:",
+  "noOffer.criteria": [
+    "🔗 An external sponsored link",
+    "🔖 A clear promo code",
+    "💰 A concrete customer benefit (discount, free month, etc.)"
+  ],
+  "noOffer.exclusion": "Internal links, self-promotion or free trials without discounts are excluded.",
+  "code.title": "🔖 Promo Code:",
+  "benefit.title": "💰 Benefit:",
+  "link.title": "✅ Deal Found:",
+  "ai.sponsor": "🧠 AI: Sponsor detected",
+  "ai.noSponsor": "🧠 AI: No sponsor detected",
+  "ai.unavailable": "🧠 AI: Unavailable",
+  "noOffer.expired": "❌ This deal has expired (video published more than 21 days ago)."
+  
+}

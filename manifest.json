@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "DealScout",
+  "version": "0.1",
+  "description": "Détecte les sponsors et réductions sur les vidéos YouTube.",
+  "permissions": ["scripting", "tabs", "activeTab", "storage"],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://my.youtube.com/*",
+    "https://m.youtube.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/watch*",
+        "https://my.youtube.com/watch*",
+        "https://m.youtube.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+
+}

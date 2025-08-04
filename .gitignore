@@ -1,0 +1,17 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+.build/
+*.log
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Model and training artifacts (si généré)
+ai/model.json
