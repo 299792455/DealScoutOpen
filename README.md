@@ -21,9 +21,9 @@ Détecte automatiquement les offres commerciales, codes promo et liens sponsoris
 - Gestion des vidéos expirées (> 21 jours)
 - UI multilingue (FR / EN)
 
-## MIT License
+MIT License
 
-Ce projet a été initié dans le cadre de ma reconversion en tant que développeur web (JavaScript/React). Je suis un jeune quarantenaire autodidacte, et ce travail — de faible niveau et très ùoche/imparfait — s'améliorera continuellement. Merci de faire preuve de bienveillance et d'éviter les jugements destructeurs : chaque ligne ici est l'oeuvre d'un newbie. 
+Ce projet a été initié dans le cadre de ma reconversion en tant que développeur web (JavaScript/React). Je suis un jeune quarantenaire autodidacte, et ce travail — de faible niveau et très ùoche/imparfait — s'améliorera continuellement. Chaque ligne ici est l'oeuvre d'un newbie. Pas taper please :p 
 
 L'extension est avant tout taillé pour la langue FR (le reste est à venir ofc).
 
@@ -85,9 +85,9 @@ Management of expired videos (> 21 days)
 
 Multilingual UI (FR / EN)
 
-## MIT License
+MIT License
 
-This project was initiated as part of my career change to become a web developer (JavaScript/React). I'm a self-taught developer in my early 40s, and this work — rough and clearly beginner-level — is a continuous work in progress. Please be kind and avoid harsh judgment: every line here is the work of a newbie.
+This project was initiated as part of my career change to become a web developer (JavaScript/React). I'm a self-taught developer in my early 40s, and this work — rough and clearly beginner-level — is a continuous work in progress. Every line here is the work of a newbie. Dont slap me :p
 
 The extension is primarily designed for French language content but ENG is coming.
 
@@ -155,9 +155,9 @@ Gestión de vídeos caducados (> 21 días)
 
 Interfaz multilingüe (FR / EN)****
 
-## MIT License
+MIT License
 
-Este proyecto se inició como parte de mi reconversión profesional hacia el desarrollo web (JavaScript/React). Soy un autodidacta de poco más de 40 años, y este trabajo — muy básico y claramente imperfecto — está en constante evolución. Gracias por mostrar comprensión y evitar juicios destructivos: cada línea aquí es obra de un principiante.
+Este proyecto se inició como parte de mi reconversión profesional hacia el desarrollo web (JavaScript/React). Soy un autodidacta de poco más de 40 años, y este trabajo — muy básico y claramente imperfecto — está en constante evolución. Cada línea aquí es obra de un newbie. No pegar :p
 
 La extensión está pensada principalmente para contenido en francés.
 
