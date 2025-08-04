@@ -21,7 +21,7 @@ Détecte automatiquement les offres commerciales, codes promo et liens sponsoris
 - Gestion des vidéos expirées (> 21 jours)
 - UI multilingue (FR / EN)
 
-MIT License
+## MIT License
 
 Ce projet a été initié dans le cadre de ma reconversion en tant que développeur web (JavaScript/React). Je suis un jeune quarantenaire autodidacte, et ce travail — de faible niveau et très ùoche/imparfait — s'améliorera continuellement. Merci de faire preuve de bienveillance et d'éviter les jugements destructeurs : chaque ligne ici est l'oeuvre d'un newbie. 
 
@@ -58,10 +58,10 @@ Cas à exclure	Justification
 
 🇬🇧 
 
-DealScout – Chrome Extension
+# DealScout – Chrome Extension
 Automatically detects commercial offers, promo codes, and sponsored links in YouTube video descriptions.
 
-🔧 Local Installation
+## Local Installation
 Clone the repository
 
 Go to chrome://extensions
@@ -72,7 +72,7 @@ Click “Load unpacked”
 
 Select the project folder
 
-📦 Features
+## Features
 Automatic detection of:
 
 Sponsored links
@@ -85,7 +85,7 @@ Management of expired videos (> 21 days)
 
 Multilingual UI (FR / EN)
 
-MIT License
+## MIT License
 
 This project was initiated as part of my career change to become a web developer (JavaScript/React). I'm a self-taught developer in my early 40s, and this work — rough and clearly beginner-level — is a continuous work in progress. Please be kind and avoid harsh judgment: every line here is the work of a newbie.
 
@@ -128,10 +128,10 @@ Excluded case Justification
 
 🇪🇸
 
-DealScout – Extensión de Chrome
+# DealScout – Extensión de Chrome
 Detecta automáticamente ofertas comerciales, códigos promocionales y enlaces patrocinados en las descripciones de videos de YouTube.
 
-🔧 Instalación local
+## Instalación local
 Clona el repositorio
 
 Ve a chrome://extensions
@@ -142,7 +142,7 @@ Haz clic en “Cargar sin empaquetar”
 
 Selecciona la carpeta del proyecto
 
-📦 Funcionalidades
+## Funcionalidades
 Detección automática de:
 
 Enlaces patrocinados
@@ -155,7 +155,7 @@ Gestión de vídeos caducados (> 21 días)
 
 Interfaz multilingüe (FR / EN)****
 
-MIT License
+## MIT License
 
 Este proyecto se inició como parte de mi reconversión profesional hacia el desarrollo web (JavaScript/React). Soy un autodidacta de poco más de 40 años, y este trabajo — muy básico y claramente imperfecto — está en constante evolución. Gracias por mostrar comprensión y evitar juicios destructivos: cada línea aquí es obra de un principiante.
 
